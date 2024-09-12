@@ -21,7 +21,7 @@
 ---------------------------------------------
 # Tips från vänner & gruppen
 
-|`bla`|`blablabla`|`àidmad` |
+|`bla`|`blablabla`|`àidmad`|
 |------|------|------|
 |`zoom`|`zoom`| Här skriver jag något| 
 |`zoom`|| Här skriver jag något| 
@@ -36,5 +36,4 @@
 * https://about.gitlab.com/images/press/git-cheat-sheet.pdf </b>
 
 
-Hej på hallå hej hej hej
-hjej somba
+Click [here](https://www.youtube.com/watch?v=yPYZpwSpKmA) for fun :)
