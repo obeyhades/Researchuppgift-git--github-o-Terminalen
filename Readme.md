@@ -21,9 +21,11 @@
 ---------------------------------------------
 # Tips från vänner & gruppen
 
-|`bla`|`blablabla`|
-|------|
+|`bla`|`blablabla`|`àidmad` |
+|------|------|------|
 |`zoom`|`zoom`| Här skriver jag något| 
+|`zoom`|| Här skriver jag något| 
+
 
 ![alt text](https://m.media-amazon.com/images/I/51tYXyD5NHL._AC_.jpg)
 ----------------------
@@ -32,3 +34,7 @@
 * https://www.geeksforgeeks.org/ </b>
 * https://www.markdownguide.org/basic-syntax/ </b>
 * https://about.gitlab.com/images/press/git-cheat-sheet.pdf </b>
+
+
+Hej på hallå hej hej hej
+hjej somba
